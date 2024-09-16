@@ -71,6 +71,11 @@ Obviously for this to work as it's written here the path to minimize-to-tray.exe
 
 Here's a video illustrating the process, including setting up an environment variable (adding minimize-to-tray to the `$path` variable in windows 10 (or 11):
 
- ![Video Tutorial](./video_guide.mp4)
+
+
+
+![](https://github.com/user-attachments/assets/4c83cb56-7fa8-45d1-8b4c-fadfcb2d6d31 "See video_guide.mp4 in root of this fork")
+
+
 
  [^1]: Thanks to [@RedSnt](https://github.com/RedSnt) for providing this tutorial in an issue submitted to the original (parent) repository at [Issue #1](https://github.com/danielgjackson/minimize-to-tray/issues/1)
