@@ -1,5 +1,7 @@
 # Using `Minimize to Tray`[^1]
 
+## Using minimize-to-tray to launch an app on log in / windows start
+
 To start an app automatically, (in this case for demonstration purposes) Aria2 (download utility), one can add a basic task in task scheduler, give it a name like _aria2 autostart_, set the trigger to "when I log on", set the action to "start a program", set the program to cmd.exe (full path `C:\Windows\System32\cmd.exe`), and the arguments is where the magic happens:
 
 ```sh
