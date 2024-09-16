@@ -1,5 +1,7 @@
 # Minimize to tray
 
+_Forked from [@danielgjackson's original repo](https://github.com/danielgjackson/minimize-to-tray) with intention to add a simple UI  In the meantime, you can find a detailed guide [**here**](./Guide.md)_
+
 This program minimizes an application to the Windows taskbar notification area (also informally known as the *system tray*).
 
 This might be useful for long-running programs that you are happy to leave in the background and forget about.
